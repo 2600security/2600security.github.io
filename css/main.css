@@ -7439,15 +7439,15 @@ a.ls-purple:hover, a.ls-purple:active {
       color: #797591; }
 
 .mapouter {
-position: relative;
-text-align: right;
-height: 400px;
-width: 600px;
+  position: relative;
+  text-align: right;
+  height: 100%;
+  width: 100%;
 }
 
 .gmap_canvas {
-overflow: hidden;
-background: none !important;
-height: 400px;
-width: 600px;
+  overflow: hidden;
+  background: none !important;
+  height: 100%;
+  width: 100%;
 }
